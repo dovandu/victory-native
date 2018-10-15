@@ -2,7 +2,7 @@
 # Victory Native
 
 <p align="left">
-  <img src="https://github.com/dovandu/victory-native/blob/master/0x0ss-3.jpg">
+  <img src="https://github.com/dovandu/victory-native/blob/master/0x0ss-3.jpg" width="300">
 </p>
 
 ### Usage
