@@ -1,6 +1,10 @@
 [![Stories in Ready](https://badge.waffle.io/FormidableLabs/victory-native.png?label=ready&title=Ready)](https://waffle.io/FormidableLabs/victory-native)
 # Victory Native
 
+<p align="left">
+  <img src="https://github.com/dovandu/victory-native/blob/master/0x0ss-3.jpg">
+</p>
+
 ### Usage
 
 Install victory-native:
